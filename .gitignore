@@ -1,0 +1,9 @@
+.metadata/
+.recommenders/
+target/
+**/target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
